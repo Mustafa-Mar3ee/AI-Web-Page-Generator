@@ -1,7 +1,6 @@
-# Project Name
+# Ai Web Page Generator
 
-A brief description of your project.
-
+Generate webpages hase content based on GPT MODEL
 ## Overview
 
 This repository contains three main components of the project: Frontend, Backend, and AI Model. Each component serves a specific role in the overall system. This README will provide an overview of each part and guide you on how to set up and run them.
