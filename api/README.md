@@ -29,11 +29,6 @@ The build is minified and the filenames include the hashes. Your app is ready to
 
 To build a Docker image, use the following command:
 
-
-# About gpt-backend
-
-gpt-backend serves as the back-end for the Islamic Information website. It is a reliable online resource that offers accurate information about Islam, providing a wide range of articles and resources on various topics related to the faith. It serves as an excellent source of information for both Muslims and non-Muslims.
-
 # Backend Implementation Details
 
 The backend implementation includes the following:
@@ -45,5 +40,3 @@ The backend implementation includes the following:
 - Creating routes to handle CRUD operations (Create, Read, Update, Delete) for the data. These routes interact with the MongoDB database using an ODM library like Mongoose.
 - Defining GraphQL schemas to handle query and mutation requests for the data.
 - Implementing controller functions that handle the logic for each API endpoint, interacting with the database and returning responses.
-
-## All rights reserved. Copyright © 2023 Misraj
