@@ -75,7 +75,7 @@ export const AppHeaderTabs = () => {
             >
                 <Image
                     src='/logo.png'
-                    width={200}
+                    width={100}
                     height={50}
                     alt='logo'
                     style={{ margin: 5 }}

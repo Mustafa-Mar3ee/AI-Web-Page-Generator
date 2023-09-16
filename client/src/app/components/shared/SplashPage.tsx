@@ -16,8 +16,8 @@ const Splash = () => {
           width: "100%",
         }}
       >
-        <Image src='/logo.png' width={300} height={30}
-          style={{ marginBottom: -20 }}
+        <Image src='/logo.png'  width={100} height={30}
+          style={{ marginBottom: -20,width:'5rem' }}
           alt='' />
         <PointsLoader className=" " />
       </Box>
